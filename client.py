@@ -5,7 +5,7 @@ import tkinter as tk
 from tkinter import scrolledtext, simpledialog, messagebox
 import random
 
-# --- Configuration ---
+# -- Configuration -
 HOST = '127.0.0.1'
 PORT = 65432
 SYNC_INTERVAL_MS = 15000 # Sync every 15 seconds
