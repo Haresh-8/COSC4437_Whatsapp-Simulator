@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/hareshpatel080503/Desktop/STUFF/COSC4437/Whatsapp_Simulator",
+      "program": "/Users/hareshpatel080503/Desktop/STUFF/COSC4437/Whatsapp_Simulator/build/Debug/outDebug"
+    }
+  ]
+}
